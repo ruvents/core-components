@@ -1,4 +1,4 @@
-package com.ruvents.builders;
+package com.ruvents.components.builders;
 
 import java.util.HashMap;
 import java.util.Map;

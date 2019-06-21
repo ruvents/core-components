@@ -3,7 +3,7 @@
  */
 package com.ruvents;
 
-import com.ruvents.builders.MapBuilder;
+import com.ruvents.components.builders.MapBuilder;
 import org.junit.Assert;
 import org.junit.Test;
 
